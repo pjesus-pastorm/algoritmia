@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'es'
+title = 'Sitio sobre algoritmia'
+theme= 'tale'
+
+[menu]
+	[[menu.main]]
+		identifier = "introducción"
+		name = "introduccion"
+		title = "Introducción"
+		url ="/introduccion/"
+		weight = 0
+	
